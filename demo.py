@@ -1,5 +1,7 @@
 def print_to_command():
     print('hello')
+    print('Who are you?')
+    print('and what are you doing on my github account')
 
 
 def main():
