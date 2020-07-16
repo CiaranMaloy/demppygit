@@ -12,6 +12,8 @@ def print_to_command():
     for i in I:
         print(i)
 
+    print('this should only show on the edit branch')
+
 
 def main():
     print_to_command()
